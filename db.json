@@ -1,23 +1,31 @@
 {
     "users": [
-        {
-          "id":1,
+      {
+          "id": 1,
           "name": "sai",
           "email": "sai@gmail.com",
-          "dob": "27.04.2019",
-          "password":"123456",
-          "gender":"female",
+          "dob": "2.04.1998",
+          "password": "12345678",
+          "gender": "male",
           "role": "user"
         },
-        {
-            "id": 2,
-            "name": "abc",
-            "email": "abc@gmail.com",
-            "dob": "2.04.2000",
-            "password":"12345678",
-            "gender":"male",
-            "role": "admin"  
+      {
+        "id": 2,
+        "name": "abc",
+        "email": "abc@gmail.com",
+        "dob": "2.04.2000",
+        "password": "12345678",
+        "gender": "male",
+        "role": "admin"
+      },
+      {
+          "id": 3,
+          "name": "suresh",
+          "email": "s@gmail.com",
+          "dob": "27.04.2010",
+          "password": "12345678",
+          "gender": "male",
+          "role": "user"
         }
     ]
- 
-}
+  }
